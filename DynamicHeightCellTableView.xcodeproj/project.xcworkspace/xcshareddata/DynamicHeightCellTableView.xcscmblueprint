@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C45CE6296BDA83F6E6C8F3AC851A0AC7BCD74ECC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "4fb52c63-79a2-4332-b935-70f7493a1bb0++7015" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C45CE6296BDA83F6E6C8F3AC851A0AC7BCD74ECC" : 9223372036854775807,
+    "4fb52c63-79a2-4332-b935-70f7493a1bb0++7015" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "327891FE-52B4-4D0F-94D0-62BAD4427393",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C45CE6296BDA83F6E6C8F3AC851A0AC7BCD74ECC" : "DynamicHeightCellTableView\/",
+    "4fb52c63-79a2-4332-b935-70f7493a1bb0++7015" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DynamicHeightCellTableView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DynamicHeightCellTableView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/172.16.72.223\/svn\/mnetdev",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4fb52c63-79a2-4332-b935-70f7493a1bb0++7015"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Ohsw\/DynamicHeightCellTableView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C45CE6296BDA83F6E6C8F3AC851A0AC7BCD74ECC"
+    }
+  ]
+}
